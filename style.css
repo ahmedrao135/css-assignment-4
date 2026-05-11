@@ -1,16 +1,14 @@
 img {
-        border: 5px dotted black;
-    border: 5px;
     width: 450px;
     padding-top: 30px;
 }
 
 div {
-
+width: 550px;
     background-color: gray;
     text-align: center;
     margin-left: 700px;
-    margin-right: 500px;
+    /* margin-right: 500px; */
 }
 
 p {
@@ -18,9 +16,5 @@ p {
     width: 450px;
     height: 150px;
     overflow-y: scroll;
-    padding-left: 80px;
-}
-
-span {
-    /* text-align: left; */
+    padding-left: 40px;
 }
