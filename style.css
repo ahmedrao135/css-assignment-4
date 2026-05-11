@@ -1,0 +1,26 @@
+img {
+        border: 5px dotted black;
+    border: 5px;
+    width: 450px;
+    padding-top: 30px;
+}
+
+div {
+
+    background-color: gray;
+    text-align: center;
+    margin-left: 700px;
+    margin-right: 700px;
+}
+
+p {
+    text-align: justify;
+    width: 450px;
+    height: 150px;
+    overflow-y: scroll;
+    padding-left: 80px;
+}
+
+span {
+    /* text-align: left; */
+}
